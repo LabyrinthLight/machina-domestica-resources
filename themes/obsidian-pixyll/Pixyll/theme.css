@@ -1,8 +1,17 @@
 /*
  * Pixyll for Obsidian
- * Adapted from Typora's fork of the Pixyll theme (pixyll.com, MIT license)
- * Supports both light and dark modes — pick in Settings → Appearance → Base color scheme.
+ *
+ * Original design — John Otander (@4lpine)
+ *   https://pixyll.com  |  MIT License
+ *
+ * Typora port — Typora team (https://typora.io)
+ *   https://theme.typora.io/theme/Pixyll
+ *
+ * Obsidian adaptation — Ariadne Moran (ari@typographtech.com)
+ *
+ * Supports both light and dark modes.
  * Light palette mirrors Typora's pixyll.css; dark palette mirrors pixyll-dark.css.
+ * Licensed under MIT.
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300;1,700&family=Lato:ital,wght@0,300;0,900;1,300;1,900&display=swap');

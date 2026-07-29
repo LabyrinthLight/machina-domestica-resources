@@ -18,9 +18,20 @@
 }
 
 /**
- * pixyll-dark — a dark mode fork of Typora's Pixyll theme
- * forked from pixyll.com
- * MIT license
+ * pixyll-dark — Dark variant of Typora's Pixyll theme
+ *
+ * Original design — John Otander (@4lpine)
+ *   https://pixyll.com  |  MIT License
+ *
+ * Typora port — Typora team (https://typora.io)
+ *   https://theme.typora.io/theme/Pixyll
+ *
+ * Dark adaptation — Ariadne Moran (ari@typographtech.com)
+ *
+ * "A simple, beautiful theme for Jekyll that emphasizes content
+ *  rather than aesthetic fluff." — John Otander
+ *
+ * MIT License
  */
 
 @font-face {
@@ -118,13 +129,7 @@ div[cid],
 h4 {
 	font-size: 1.13rem;
 }
-/*
- Pixyll
- A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
- Best served with BASSCSS (http://jxnblk.github.io/basscss)
- Crafted with <3 by John Otander (@4lpine) - ©2015 John Otander MIT License http://opensource.org/licenses/MIT
 
-*/
 
 html {
 	font-size: 14px;
