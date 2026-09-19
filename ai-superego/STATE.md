@@ -54,7 +54,7 @@ One-offs only.
 | Item | Due | Why it exists | Status |
 |---|---|---|---|
 | Feed sourdough | 2026-09-14 16:00 | dump 2026-09-13; Monday afternoon | open |
-| Collect certified birth documents | 2026-09-24 13:30 | Needed for visa application. Bring ID + acknowledgment receipt. | open |
+| Collect certified birth documents | 2026-10-28 15:30 | Needed for visa application. Bring ID + acknowledgment receipt. | open |
 | Kids' Halloween costumes | 2026-10-22 | Three kids; budget 1000 HKD; not bought | open |
 
 ---
@@ -69,8 +69,8 @@ Status:
 
 | Project | Goal | Status | Next action | Progress | Notes |
 |---|---|---|---|---|---|
-| Novel project | Realistic: finish Book I. Stretch: draft Book II | tracked | Edit Chapter 2 | Ch 2 first draft done 2026-09-07. Next: edit. Aim publishable with AI graphics. | Mondays 13:00–14:00 sitting. |
-| Visa documentation | Docs ready for biometrics appointment 2027-03-15 09:00 | active | Collect certified birth documents by 2026-09-24 | 0/7. Docs ordered 2026-09-14; collect 09-24. | Digest only in a week with a visa loop due that Mon–Sun; print (N/M). |
+| Novel project | Realistic: finish Book I. Stretch: draft Book II | tracked | Edit Chapter 2 | Ch 2 first draft done 2026-09-07. Next: edit. Aim publishable on substack | Mondays 13:00–14:00 sitting. |
+| Visa documentation | Docs ready for appointment 2026-12-15 | active | Collect certified birth documents by 2026-10-28 | 0/7. Docs ordered 2026-09-14; collect 10-28. | Digest only in a week with a visa loop due that Mon–Sun; print (N/M). |
 | Floor push-up | Realistic: 1 unassisted floor push-up. Stretch: 5 | active | Work toward unassisted floor push-up via daily workouts (exercises tracked elsewhere) | Assist last noted 15 lb (2026-09-07). Habit series is now Daily workouts. | Not in the morning email. |
 
 ---
@@ -81,8 +81,8 @@ Series only. Do not write cancel/move on this table.
 
 | Event | When | Starts | Notes |
 |---|---|---|---|
-| Piano — Olivia, Sophie | Wed 14:00–15:00 | ongoing | |
-| Art class — Olivia, Sophie | Mon, Wed 10:30–12:30 | 2026-09-02 | |
+| Piano — Olivia, Sophie | Wed 11:00-12:00 | ongoing | |
+| Art class — Olivia, Sophie | Mon, Wed 14:30-16:00 | 2026-09-02 | |
 | Birthday — Mom | 7 Feb annually | | |
 
 ---
@@ -94,7 +94,7 @@ Single dates. Cleanup deletes after the date passes.
 | Event | When | Notes |
 |---|---|---|
 | Piano — cancelled today | Wed 2026-09-16 | one instance only; series unchanged |
-| Collect birth documents — city records office | Thu 2026-09-24 13:30 | Bring acknowledgment + ID |
+| Collect birth documents — city records office | 2026-10-28 15:30 | Bring acknowledgment + ID |
 | Bike repair | Wed 2026-09-16 | done (was Thu 16:00) |
 
 ---
